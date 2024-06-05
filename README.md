@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pratham
+- 👋 Hi, I’m pratham
 - 👀 I’m interested in game dev
 - 🌱 I’m currently learning game dev
 - 💞️ I’m looking to collaborate on game dev
