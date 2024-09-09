@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning game dev
 - 💞️ I’m looking to collaborate on game dev
 - 📫 How to reach me pratham@unada.io
-- ⚡ Fun fact: I play video games (Is it really a fact?)
+- ⚡ Fun fact: I play video games
 
 <!---
 pratham-unada/pratham-unada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
